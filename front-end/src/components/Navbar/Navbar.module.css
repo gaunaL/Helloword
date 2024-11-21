@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root{
+    --base-font-size: 1rem;
+}
+.nav{
+   
+   
+    
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px ;
+
+    display: flex;
+    background-color: #d87503;
+}
+
+.nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+
+.nav li{
+    margin:10px;
+    border-bottom:  #ffffff 2px;
+    
+
+}
+
+.nav ul li a{
+    font-size: calc(1 * var(--base-font-size));
+    text-decoration: none;
+    color: azure;
+    font-family: "Open sans", sans-serif;
+   
+}
+
+
+.nav ul li a:hover{
+    color:#5d65ff;
+    
+}
+.nav ul li:hover{
+    
+    font-weight: unset;
+    font-size: calc(1.1 * var(--base-font-size));
+    transition: 0.2s;
+}
+
+.brand_container h1 {
+    font-size: calc(3.8 * var(--base-font-size));
+    color: #ffffff;
+    
+}
+
+
+.brand_container h1 span,
+.brand_container h1 div{
+    font-size: 2em;
+    
+    
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000;
+    color: #148dff85;
+}
+.brand_secound{
+    color: #dfe52fc7 !important;
+}
+
+.brand_container h1 div{
+    text-shadow: 0px 0px 30px #10bd00;
+    display: inline;
+}

@@ -1,0 +1,30 @@
+.container_student {
+    z-index: 9999;
+    width: 100vw;
+    height: 100vh;
+    margin:0;
+    padding:0;
+    
+    position: relative;
+    
+    display: flex;
+    flex-direction: column;
+    background-color: #00e3f365;
+    border-radius: 10px ;
+    box-sizing: border-box;
+    h1{
+        border-bottom: 1px solid #000;
+    }
+
+    label{
+        margin: 40px auto;
+        font-size: 1.2em;
+     
+    }
+
+    
+}
+
+.hide{
+    display: none;
+}
