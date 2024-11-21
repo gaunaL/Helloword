@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Helloword/static/css/main.88884aa7.css",
-    "main.js": "/Helloword/static/js/main.e2979789.js",
+    "main.js": "/Helloword/static/js/main.566838d8.js",
     "static/js/453.68d2f560.chunk.js": "/Helloword/static/js/453.68d2f560.chunk.js",
     "static/media/menino.jpg": "/Helloword/static/media/menino.9c583a6f42a490413626.jpg",
     "static/media/didi.jpg": "/Helloword/static/media/didi.57b32b44428221e86fc3.jpg",
     "static/media/pao.jpg": "/Helloword/static/media/pao.6cad6727c330849c99ae.jpg",
     "index.html": "/Helloword/index.html",
     "main.88884aa7.css.map": "/Helloword/static/css/main.88884aa7.css.map",
-    "main.e2979789.js.map": "/Helloword/static/js/main.e2979789.js.map",
+    "main.566838d8.js.map": "/Helloword/static/js/main.566838d8.js.map",
     "453.68d2f560.chunk.js.map": "/Helloword/static/js/453.68d2f560.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88884aa7.css",
-    "static/js/main.e2979789.js"
+    "static/js/main.566838d8.js"
   ]
 }
